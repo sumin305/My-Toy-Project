@@ -20,13 +20,16 @@ https://user-images.githubusercontent.com/110437548/229293459-018736b2-9be4-48cd
 ## Calculator
 [📚 git hub](https://github.com/sumin305/CaffeineHolic)   
    
-![image](https://user-images.githubusercontent.com/110437548/230788654-6bcd0290-bf7f-4feb-852e-67ed87efd530.png)
+   
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-10 at 02 54 02](https://user-images.githubusercontent.com/110437548/230788938-dec4c1e7-6de8-4b37-bd5e-2501db510368.png)
+
 
 ## Scrum Module
 [📚 git hub](https://github.com/sumin305/ScrumModule)   
-   
-![image](https://user-images.githubusercontent.com/110437548/230788724-36918c52-5cbd-44e6-b038-373f1e2bd7ff.png)
-![image](https://user-images.githubusercontent.com/110437548/230788703-e86a5fed-5e86-415b-be3e-9401ed198b33.png)
+    
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-10 at 02 59 27](https://user-images.githubusercontent.com/110437548/230788908-579767df-d4ac-47b2-adc3-40159a6a4edd.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-10 at 02 59 29](https://user-images.githubusercontent.com/110437548/230788911-4e8a018a-e335-4e86-917b-341d98886d05.png)
+
 
 
 
